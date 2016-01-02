@@ -1,4 +1,4 @@
-# Easy linkable Docker Container
+# Easy linkable nginx Docker Container
 
 Use this container to dynamically link an HTTP application to this docker container.
 
