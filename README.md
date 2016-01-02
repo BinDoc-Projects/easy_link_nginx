@@ -12,7 +12,7 @@ docker run --name myapp -d -p 8080:8080 mheider/myapp
 After this just run this docker container:
 
 ```
-docker run --name my-nginx --link myapp:APP -d -p 80:80 mheider/easy_link_nginx
+docker run --name my-nginx --link myapp:APP -d -p 80:80 bindoc/easy_link_nginx
 ```
 
 [Source](http://stackoverflow.com/a/28014052)
