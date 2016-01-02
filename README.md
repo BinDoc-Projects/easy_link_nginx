@@ -15,6 +15,9 @@ After this just run this docker container:
 docker run --name my-nginx --link myapp:APP -d -p 80:80 mheider/easy_link_nginx
 ```
 
+[Source](http://stackoverflow.com/a/28014052)
+
+
 ##LICENSE
 The MIT License (MIT)
 
